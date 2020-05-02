@@ -21,6 +21,6 @@ This ques can be solved in linear time as well by simply traversing till 'n' & c
 
 So binary search works fine for above problem.
 
-For better understanding of binary search. Please look into: ([https://www.geeksforgeeks.org/binary-search])
+For better understanding of binary search. Please look into: [Binary Search](https://www.geeksforgeeks.org/binary-search).
 
 */
