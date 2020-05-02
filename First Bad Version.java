@@ -14,7 +14,7 @@ public class Solution extends VersionControl {
     }
 }
 
-/*
+
 Explanation
 ------------
 This ques can be solved in linear time as well by simply traversing till 'n' & calling 'isBadVersion()' for each n, but this will be O(n) and gives TLE on submission.
@@ -23,4 +23,4 @@ So binary search works fine for above problem.
 
 For better understanding of binary search. Please look into: [Binary Search](https://www.geeksforgeeks.org/binary-search).
 
-*/
+
